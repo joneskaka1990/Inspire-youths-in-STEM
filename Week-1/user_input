@@ -1,0 +1,15 @@
+s_name = input("what is your name")
+f_name=input("first name ")
+print (" my 1st nam:", f_name)
+print (" my 2nd nam:", s_name)
+
+
+f_num=input("enter fist namber")
+s_nam=input("enter second namber")
+
+s_num=int( f_num)+int(s_nam)
+print("the product of the number is:,pri_num")
+diff_num=int(f_num)-int(s_num)
+print("the difference of the numbersis",diff_num)
+quo_num = int(f_num)/ int(s_num)
+print ("the quotient of the number is:",quo_num)
